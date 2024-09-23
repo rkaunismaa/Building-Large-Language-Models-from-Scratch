@@ -8,6 +8,8 @@ This will be my walk through of the book "Building Large Language Models from Sc
 
  I am expecting the [current repo](https://github.com/rasbt/LLMs-from-scratch) to be updated up until that publication date.
 
+ mamba activate llmfs
+
 
 ## Monday, September 23, 2024
 
