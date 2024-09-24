@@ -25,3 +25,7 @@ Setting up of the local mamba environment for this book.
  8) mamba install conda-forge::pandas
  9) mamba install conda-forge::tqdm
 10) mamba install conda-forge::psutil
+
+## Tuesday, September 24, 2024
+
+Gotta say he really explains things well and so far does not skim over any important details! I really like that!
