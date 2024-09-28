@@ -29,3 +29,7 @@ Setting up of the local mamba environment for this book.
 ## Tuesday, September 24, 2024
 
 Gotta say he really explains things well and so far does not skim over any important details! I really like that!
+
+## Saturday, September 28, 2024
+
+11) mamba install conda-forge::transformers
