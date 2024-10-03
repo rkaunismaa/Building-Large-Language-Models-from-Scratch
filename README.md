@@ -33,3 +33,7 @@ Gotta say he really explains things well and so far does not skim over any impor
 ## Saturday, September 28, 2024
 
 11) mamba install conda-forge::transformers
+
+## Thursday, October 3, 2024
+
+Continue to go through this most excellent resource! It is really well written! And the [original repo](https://github.com/rasbt/LLMs-from-scratch) continues to be updated to this day! 
