@@ -43,3 +43,13 @@ Continue to go through this most excellent resource! It is really well written! 
 Starting to go through 'Chapter 5 - Pretraining on unlabeled data'
 
 12) pip install thop
+
+## Wednesday, October 23, 2024
+
+Looks like we need tensorflow for Chapter 5. Rather then just installing it to the environment, I will create a new environment for it by cloning 'llmfs' to 'llmfs-tf' and then installing tensorflow to that environment.
+
+mamba create -n llmfs-tf --clone llmfs
+mamba activate llmfs-tf
+pip install tensorflow
+
+Nice! This new environment works with the code from chapter 5.

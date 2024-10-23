@@ -1,3 +1,11 @@
 appendix-A/01_main-chapter-code/model.pth
 
- Chapter02/02_bonus_bytepair-encoder/__pycache__/
+Chapter02/02_bonus_bytepair-encoder/__pycache__/
+
+Chapter05/01_main-chapter-code/__pycache__/
+Chapter05/01_main-chapter-code/gpt2/
+Chapter05/01_main-chapter-code/loss-plot.pdf
+Chapter05/01_main-chapter-code/model.pth
+Chapter05/01_main-chapter-code/model_and_optimizer.pth
+Chapter05/01_main-chapter-code/temperature-plot.pdf
+Chapter05/01_main-chapter-code/the-verdict.txt
