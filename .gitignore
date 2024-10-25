@@ -12,3 +12,21 @@ Chapter05/01_main-chapter-code/the-verdict.txt
 
 Chapter05/02_alternative_weight_loading/__pycache__/
 Chapter05/02_alternative_weight_loading/checkpoints/
+
+#Chapter06/01_main-chapter-code/README.md
+Chapter06/01_main-chapter-code/__pycache__/
+Chapter06/01_main-chapter-code/accuracy-plot.pdf
+#Chapter06/01_main-chapter-code/exercise-solutions.ipynb
+Chapter06/01_main-chapter-code/gpt2/
+#Chapter06/01_main-chapter-code/gpt_class_finetune.py
+#Chapter06/01_main-chapter-code/gpt_download.py
+#Chapter06/01_main-chapter-code/load-finetuned-model.ipynb
+Chapter06/01_main-chapter-code/loss-plot.pdf
+#Chapter06/01_main-chapter-code/previous_chapters.py
+Chapter06/01_main-chapter-code/review_classifier.pth
+Chapter06/01_main-chapter-code/sms_spam_collection.zip
+Chapter06/01_main-chapter-code/sms_spam_collection/
+Chapter06/01_main-chapter-code/test.csv
+Chapter06/01_main-chapter-code/tests.py
+Chapter06/01_main-chapter-code/train.csv
+Chapter06/01_main-chapter-code/validation.csv
