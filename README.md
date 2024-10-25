@@ -62,4 +62,4 @@ mamba activate llmfs
 
 ## Friday, October 25, 2024
 
-Creating an environment.yml file for the llmfs-tf environment.
+Creating an environment.yml file for the llmfs-tf environment. Then I will create a new environment from that file on KAUWITB. 
