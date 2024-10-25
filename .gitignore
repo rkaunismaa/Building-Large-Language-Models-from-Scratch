@@ -30,3 +30,6 @@ Chapter06/01_main-chapter-code/test.csv
 Chapter06/01_main-chapter-code/tests.py
 Chapter06/01_main-chapter-code/train.csv
 Chapter06/01_main-chapter-code/validation.csv
+
+Chapter07/01_main-chapter-code/__pycache__/
+Chapter07/01_main-chapter-code/gpt2/

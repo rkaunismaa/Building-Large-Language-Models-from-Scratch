@@ -59,3 +59,7 @@ Nice! This new environment works with the code from chapter 5.
 mamba activate llmfs
 
 13) mamba install conda-forge::ipywidgets
+
+## Friday, October 25, 2024
+
+Creating an environment.yml file for the llmfs-tf environment.
