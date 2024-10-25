@@ -53,3 +53,9 @@ mamba activate llmfs-tf
 pip install tensorflow
 
 Nice! This new environment works with the code from chapter 5.
+
+## Thursday, October 24, 2024
+
+mamba activate llmfs
+
+13) mamba install conda-forge::ipywidgets

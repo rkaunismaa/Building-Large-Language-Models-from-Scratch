@@ -9,3 +9,6 @@ Chapter05/01_main-chapter-code/model.pth
 Chapter05/01_main-chapter-code/model_and_optimizer.pth
 Chapter05/01_main-chapter-code/temperature-plot.pdf
 Chapter05/01_main-chapter-code/the-verdict.txt
+
+Chapter05/02_alternative_weight_loading/__pycache__/
+Chapter05/02_alternative_weight_loading/checkpoints/
