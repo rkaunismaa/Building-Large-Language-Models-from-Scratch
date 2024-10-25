@@ -33,3 +33,5 @@ Chapter06/01_main-chapter-code/validation.csv
 
 Chapter07/01_main-chapter-code/__pycache__/
 Chapter07/01_main-chapter-code/gpt2/
+Chapter07/01_main-chapter-code/gpt2-medium355M-sft.pth
+Chapter07/01_main-chapter-code/loss-plot.pdf
