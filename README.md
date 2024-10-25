@@ -63,3 +63,5 @@ mamba activate llmfs
 ## Friday, October 25, 2024
 
 Creating an environment.yml file for the llmfs-tf environment. Then I will create a new environment from that file on KAUWITB. 
+
+Chapter07/01_main-chapter-code/ch07.ipynb can run using the 4090, not the 2070 Super.
